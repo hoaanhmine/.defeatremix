@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				118,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BLACK LEFT"
+		},
+		{
+			"offsets": [
+				161,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BLACK RIGHT"
+		},
+		{
+			"offsets": [
+				-19,
+				345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BLACK DOWN"
+		},
+		{
+			"offsets": [
+				61,
+				504
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BLACK UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				350
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BLACK IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				923
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "BLACK SCREAM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackrun",
+	"position": [
+		-270,
+		370
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		27,
+		79
+	],
+	"camera_position": [
+		-260,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

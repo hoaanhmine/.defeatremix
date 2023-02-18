@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fgPlatform.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="move0000" x="0" y="0" width="6166" height="929" frameX="-3811" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0001" x="0" y="0" width="6166" height="929" frameX="-3611" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0002" x="0" y="0" width="6166" height="929" frameX="-3410" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0003" x="0" y="0" width="6166" height="929" frameX="-3210" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0004" x="0" y="0" width="6166" height="929" frameX="-3009" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0005" x="0" y="0" width="6166" height="929" frameX="-2808" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0006" x="0" y="0" width="6166" height="929" frameX="-2608" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0007" x="0" y="0" width="6166" height="929" frameX="-2407" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0008" x="0" y="0" width="6166" height="929" frameX="-2207" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0009" x="0" y="0" width="6166" height="929" frameX="-2006" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0010" x="0" y="0" width="6166" height="929" frameX="-1805" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0011" x="0" y="0" width="6166" height="929" frameX="-1605" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0012" x="0" y="0" width="6166" height="929" frameX="-1404" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0013" x="0" y="0" width="6166" height="929" frameX="-1204" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0014" x="0" y="0" width="6166" height="929" frameX="-1003" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0015" x="0" y="0" width="6166" height="929" frameX="-802" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0016" x="0" y="0" width="6166" height="929" frameX="-602" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0017" x="0" y="0" width="6166" height="929" frameX="-401" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0018" x="0" y="0" width="6166" height="929" frameX="-201" frameY="0" frameWidth="9977" frameHeight="929"/>
+	<SubTexture name="move0019" x="0" y="929" width="6166" height="929" frameX="0" frameY="0" frameWidth="9977" frameHeight="929"/>
+</TextureAtlas>

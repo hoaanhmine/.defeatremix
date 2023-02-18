@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf stand0000" x="0" y="0" width="312" height="440" frameX="0" frameY="-19" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0001" x="0" y="0" width="312" height="440" frameX="0" frameY="-19" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0002" x="312" y="0" width="315" height="446" frameX="0" frameY="-13" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0003" x="627" y="0" width="319" height="449" frameX="0" frameY="-10" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0004" x="627" y="0" width="319" height="449" frameX="0" frameY="-10" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0005" x="946" y="0" width="316" height="453" frameX="0" frameY="-6" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0006" x="1262" y="0" width="315" height="454" frameX="0" frameY="-5" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0007" x="1577" y="0" width="315" height="454" frameX="0" frameY="-5" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0008" x="0" y="454" width="315" height="457" frameX="0" frameY="-2" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0009" x="315" y="454" width="315" height="459" frameX="0" frameY="0" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0010" x="315" y="454" width="315" height="459" frameX="0" frameY="0" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0011" x="315" y="454" width="315" height="459" frameX="0" frameY="0" frameWidth="319" frameHeight="459"/>
+	<SubTexture name="gf stand0012" x="315" y="454" width="315" height="459" frameX="0" frameY="0" frameWidth="319" frameHeight="459"/>
+</TextureAtlas>

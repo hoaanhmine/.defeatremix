@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="victorypng.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="victory0000" x="0" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0001" x="0" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0002" x="0" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0003" x="1795" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0004" x="3590" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0005" x="5385" y="0" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0006" x="0" y="400" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0007" x="1795" y="400" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0008" x="3590" y="400" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0009" x="5385" y="400" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0010" x="0" y="800" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0011" x="1795" y="800" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0012" x="3590" y="800" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0013" x="5385" y="800" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0014" x="0" y="1200" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0015" x="1795" y="1200" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0016" x="3590" y="1200" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0017" x="5385" y="1200" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0018" x="0" y="1600" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0019" x="1795" y="1600" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0020" x="3590" y="1600" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0021" x="5385" y="1600" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0022" x="0" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0023" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0024" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0025" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0026" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0027" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0028" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0029" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0030" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0031" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0032" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0033" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0034" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0035" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0036" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0037" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0038" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0039" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0040" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0041" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0042" x="1795" y="2000" width="1795" height="400" frameX="0" frameY="0" frameWidth="1795" frameHeight="860"/>
+	<SubTexture name="victory0043" x="3590" y="2000" width="1795" height="860"/>
+	<SubTexture name="victory0044" x="5385" y="2000" width="1795" height="860"/>
+	<SubTexture name="victory0045" x="0" y="2860" width="1795" height="860"/>
+	<SubTexture name="victory0046" x="1795" y="2860" width="1795" height="860"/>
+	<SubTexture name="victory0047" x="3590" y="2860" width="1795" height="860"/>
+	<SubTexture name="victory0048" x="5385" y="2860" width="1795" height="860"/>
+	<SubTexture name="victory0049" x="0" y="3720" width="1795" height="860"/>
+	<SubTexture name="victory0050" x="1795" y="3720" width="1795" height="860"/>
+	<SubTexture name="victory0051" x="3590" y="3720" width="1795" height="860"/>
+	<SubTexture name="victory0052" x="5385" y="3720" width="1795" height="860"/>
+	<SubTexture name="victory0053" x="0" y="4580" width="1795" height="860"/>
+	<SubTexture name="victory0054" x="1795" y="4580" width="1795" height="860"/>
+	<SubTexture name="victory0055" x="3590" y="4580" width="1795" height="860"/>
+	<SubTexture name="victory0056" x="5385" y="4580" width="1795" height="860"/>
+	<SubTexture name="victory0057" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0058" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0059" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0060" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0061" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0062" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0063" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0064" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0065" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0066" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0067" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0068" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0069" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0070" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0071" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0072" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0073" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0074" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0075" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0076" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0077" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0078" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0079" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0080" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0081" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0082" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0083" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0084" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0085" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0086" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0087" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0088" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0089" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0090" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0091" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0092" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0093" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0094" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0095" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0096" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0097" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0098" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0099" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0100" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0101" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0102" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0103" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0104" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0105" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0106" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0107" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0108" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0109" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0110" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0111" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0112" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0113" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0114" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0115" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0116" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0117" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0118" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0119" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0120" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0121" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0122" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0123" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0124" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0125" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0126" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0127" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0128" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0129" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0130" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0131" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0132" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0133" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0134" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0135" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0136" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0137" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0138" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0139" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0140" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0141" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0142" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0143" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0144" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0145" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0146" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0147" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0148" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0149" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0150" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0151" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0152" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0153" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0154" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0155" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0156" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0157" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0158" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0159" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0160" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0161" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0162" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0163" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0164" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0165" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0166" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0167" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0168" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0169" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0170" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0171" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0172" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0173" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0174" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0175" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0176" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0177" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0178" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0179" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0180" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0181" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0182" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0183" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0184" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0185" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0186" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0187" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0188" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0189" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0190" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0191" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0192" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0193" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0194" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0195" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0196" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0197" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0198" x="0" y="5440" width="1795" height="860"/>
+	<SubTexture name="victory0199" x="0" y="5440" width="1795" height="860"/>
+</TextureAtlas>

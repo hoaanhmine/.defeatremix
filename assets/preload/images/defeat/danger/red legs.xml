@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red legs.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="run0000" x="0" y="0" width="573" height="318" frameX="-6" frameY="-4" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0001" x="573" y="0" width="573" height="318" frameX="-6" frameY="0" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0002" x="1146" y="0" width="574" height="318" frameX="-10" frameY="-3" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0003" x="0" y="318" width="554" height="288" frameX="-23" frameY="-46" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0004" x="554" y="318" width="549" height="341" frameX="-26" frameY="-47" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0005" x="1103" y="318" width="418" height="336" frameX="-78" frameY="-41" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0006" x="1521" y="318" width="405" height="300" frameX="-90" frameY="-76" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0007" x="0" y="659" width="405" height="323" frameX="-90" frameY="-55" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0008" x="405" y="659" width="432" height="248" frameX="-63" frameY="-51" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0009" x="837" y="659" width="432" height="248" frameX="-63" frameY="-41" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0010" x="1269" y="659" width="432" height="247" frameX="-67" frameY="-51" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0011" x="0" y="982" width="415" height="351" frameX="-82" frameY="-17" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0012" x="415" y="982" width="418" height="277" frameX="-81" frameY="-104" frameWidth="584" frameHeight="388"/>
+	<SubTexture name="run0013" x="833" y="982" width="557" height="313" frameX="0" frameY="-64" frameWidth="584" frameHeight="388"/>
+</TextureAtlas>
